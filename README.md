@@ -1,6 +1,6 @@
 # 100DaysofSwiftUI
 Welcome to my GitHub repository for all the projects I do during my #100DaysofSwiftUI challenge!
-![SwiftUI](100-Days-of.png)
+![SwiftUI](100%20Days%20of.png)
 
 ## What is SwiftUI?
 Swift UI is Apple's new innovative framework for developing applications for all Apple platforms using the Swift Language. With a declarative Swift syntax that’s very simple to learn and powerful, SwiftUI works seamlessly with new Xcode design tools to keep your code and design perfectly in sync using Xcode previews. 
